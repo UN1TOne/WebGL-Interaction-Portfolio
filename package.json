@@ -1,0 +1,52 @@
+{
+  "name": "reusable",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babylonjs/core": "^6.45.1",
+    "@babylonjs/gui": "^6.45.1",
+    "@babylonjs/gui-editor": "^6.45.1",
+    "@babylonjs/inspector": "^6.45.1",
+    "@babylonjs/loaders": "^6.45.1",
+    "@babylonjs/materials": "^6.45.1",
+    "@babylonjs/post-processes": "^6.45.1",
+    "@babylonjs/serializers": "^6.45.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.68",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.69.5",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
