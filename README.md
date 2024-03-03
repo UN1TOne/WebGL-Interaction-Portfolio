@@ -1,5 +1,5 @@
 # Scroll Interaction Portfolio with BabylonJS
-🔥Scroll interaction portfolio template by UNIT
+🔥Scroll interaction portfolio template by UNIT \
 ![_2024_03_02_16_22_20_811-ezgif com-video-to-gif-converter](https://github.com/UN1TOne/WebGLInteractionPortfolio/assets/154226870/acaa5c65-0855-4c5b-a7ee-7eaceb0ce585)
 
 ## Available Scripts
