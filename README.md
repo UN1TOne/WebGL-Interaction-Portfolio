@@ -22,6 +22,7 @@ Your app is ready to be deployed!
 ## Learn More
 
 🎞You can learn more details in this link below (Only KOR sub yet).\
+https://youtu.be/H6GbffclaN4
 ![#5](https://github.com/UN1TOne/WebGL-Interaction-Portfolio/assets/154226870/db49d1e8-85c3-4108-a7f8-59e7f27ae783) \
 
 
